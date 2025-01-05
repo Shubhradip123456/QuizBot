@@ -1,0 +1,6 @@
+id,question,options,correct_answer
+1,"What is the capital of France?","{Paris, London, Berlin, Madrid}",Paris
+2,"Which programming language is known as the backbone of web development?","{JavaScript, Python, C++, Java}",JavaScript
+3,"What is the largest planet in our solar system?","{Earth, Mars, Jupiter, Saturn}",Jupiter
+4,"Who wrote the play 'Romeo and Juliet'?","{Shakespeare, Dickens, Tolstoy, Homer}",Shakespeare
+5,"What is the chemical symbol for water?","{H2O, CO2, O2, N2}",H2O
