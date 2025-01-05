@@ -7,13 +7,13 @@
     "start": "node src/bot.js",
     "dev": "nodemon src/bot.js"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@supabase/supabase-js": "^2.47.10",
     "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "node-telegram-bot-api": "^0.66.0"
   },
   "devDependencies": {
